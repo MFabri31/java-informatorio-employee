@@ -1,0 +1,11 @@
+Alejandro,Delgado,11-08-1989,80111
+Raul,Díaz,12-01-1991,57488
+Eduardo,Rosales,26-02-1984,73491
+Ricado,Álvarez,08-10-1992,161544
+Raul,Lopez,12-01-1992,57488
+Lautaro,Gonzáles,29-09-1979,54420
+Julia,Pérez,23-02-1983,39535
+Francisco,Aquino,19-03-1973,91159
+María,López,03-09-1970,166031
+Facundo,Santana,12-05-1976,126564
+Mariano,Gómez,10-05-1986,115058
